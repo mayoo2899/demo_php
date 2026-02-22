@@ -87,6 +87,9 @@
 
             <button type="submit">Submit</button>
         </form>
+        <p style="text-align: center; margin-top: 20px;">
+            <a href="calculator.php" style="color: #00ffcc; text-decoration: none;">Open Calculator →</a>
+        </p>
     </main>
 </body>
 </html>
